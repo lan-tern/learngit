@@ -2,3 +2,4 @@ Cit is a distributed  (hello) version control system.
 Git is free software GPL.
 Git has a mutable index called stage
 this is a new line.
+Creating a new branch is quick.
