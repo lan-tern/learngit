@@ -1,2 +1,2 @@
 Cit is a distributed  (hello) version control system.
-Git is free software.
+Git is free software GPL.
