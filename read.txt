@@ -1,2 +1,2 @@
-Cit is a distributed version control system.
+Cit is a distributed  (hello) version control system.
 Git is free software.
