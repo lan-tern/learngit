@@ -3,3 +3,4 @@ Git is free software GPL.
 Git has a mutable index called stage
 this is a new line.
 Creating a new branch is quick.
+add/usr/bin/env
