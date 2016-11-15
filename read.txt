@@ -3,6 +3,9 @@ Git is free software GPL.
 Git has a mutable index called stage
 this is a new line.
 Creating a new branch is quick.
+
 Creating a new branch is quick and simple.
 add merge
 this is python file
+add/usr/bin/env
+
